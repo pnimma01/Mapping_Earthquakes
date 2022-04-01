@@ -8,15 +8,12 @@ I worked with Aman Gill for this challenge. We followed pair-programming methodo
 
 Objective of this application is to map the earthquake data in relation to the tectonic plate's location on the earth, and to see all the earthquakes with a magnitude greater than 4.5 on the map, and they would like to see the data on a third map (Dark Mode).
 
-The Earth Quake data representation can be found here:
+The Earth Quake data representation is live here:[EarthQuake Mapping](https://pnimma01.github.io/Mapping_Earthquakes/)
 
 Here are the screen print of the resulting map
 
-(https://github.com/pnimma01/surfs_up/blob/643e42344952062fb8f4930466601710a4501ef5/Challenge/Resources/June_Percipitation.png)
+![Street and Satellite Map](https://github.com/pnimma01/Mapping_Earthquakes/blob/3cdb9022481961bc4e87716e43521728f89c9be2/Challenge/C1_2.png)
 
-**December Percipitation**
+***Dark Mode***
 
-![December Temperature](https://github.com/pnimma01/surfs_up/blob/643e42344952062fb8f4930466601710a4501ef5/Challenge/Resources/December_Percipitaion.png)
-
-
-Looking at the summary of temperature and percipitation, Oahu looks like an ideal place for an Ice Cream and Surf store, ALOHA!! 
+![Dark Mode](https://github.com/pnimma01/Mapping_Earthquakes/blob/3cdb9022481961bc4e87716e43521728f89c9be2/Challenge/Dark.png)
