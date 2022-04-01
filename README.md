@@ -1,2 +1,2 @@
 # Mapping_Earthquakes
-M13
+Mod13
